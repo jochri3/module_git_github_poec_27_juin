@@ -2,3 +2,7 @@ Formulaire
 ==========
 
 nom [              ]
+prenom [             ]
+email [             ]
+password [            ]
+[ Envoyer ]
